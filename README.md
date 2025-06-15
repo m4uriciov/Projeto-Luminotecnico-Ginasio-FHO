@@ -46,7 +46,7 @@ Maurício Rafael Viana
 ## 👥 Orientador
 Daniel Augusto Pagi Ferreira
 ## 🏫 Instituição
-Centro Universitário Herminio Ometto.
+Fundação Herminio Ometto.
 
 Curso: Engenharia Elétrica (Turma 2019)
 
